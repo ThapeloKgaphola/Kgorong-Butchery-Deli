@@ -1,4 +1,4 @@
-# Kgorong-Buchery-Deli
+# Kgorong-Butchery-Deli
 computer networks project
 # CMPG 325 Computer Networks
 
